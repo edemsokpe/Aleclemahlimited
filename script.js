@@ -14,4 +14,4 @@ setInterval(() => {
     videos[current].classList.add("active");
     videos[current].play();
 
-}, 10000);
+}, 11000);
